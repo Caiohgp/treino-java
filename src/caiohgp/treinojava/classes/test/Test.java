@@ -1,3 +1,5 @@
+package caiohgp.treinojava.classes.test;
+
 import caiohgp.treinojava.classes.dominio.Carro;
 
 public class Test {
