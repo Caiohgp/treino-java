@@ -14,6 +14,12 @@ public class Anime {
     public Anime(){
     }
 
+    public void imprimir(){
+        System.out.println(this.name);
+        System.out.println(this.genre);
+        System.out.println(this.episodes);
+    }
+
     public String getName() {
         return name;
     }
