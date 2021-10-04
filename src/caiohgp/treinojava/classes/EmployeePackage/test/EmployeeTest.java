@@ -1,6 +1,6 @@
-package caiohgp.treinojava.classes.test;
+package caiohgp.treinojava.classes.EmployeePackage.test;
 
-import caiohgp.treinojava.classes.dominio.Employee;
+import caiohgp.treinojava.classes.EmployeePackage.domain.Employee;
 
 public class EmployeeTest {
     public static void main(String[] args) {

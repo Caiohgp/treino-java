@@ -1,8 +1,8 @@
-package caiohgp.treinojava.classes.test;
+package caiohgp.treinojava.classes.CarPackage.test;
 
-import caiohgp.treinojava.classes.dominio.Carro;
+import caiohgp.treinojava.classes.CarPackage.domain.Carro;
 
-public class Test {
+public class CarroTest {
     public static void main(String[] args) {
         Carro carro1 = new Carro();
         Carro carro2 = new Carro();

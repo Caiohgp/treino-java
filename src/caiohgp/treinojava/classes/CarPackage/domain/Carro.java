@@ -1,4 +1,4 @@
-package caiohgp.treinojava.classes.dominio;
+package caiohgp.treinojava.classes.CarPackage.domain;
 
 public class Carro {
     public String nome;

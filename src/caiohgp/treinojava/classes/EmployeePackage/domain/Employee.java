@@ -1,4 +1,4 @@
-package caiohgp.treinojava.classes.dominio;
+package caiohgp.treinojava.classes.EmployeePackage.domain;
 
 public class Employee {
     public String name;
