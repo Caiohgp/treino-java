@@ -10,7 +10,6 @@ public class GameTest {
         String date = String.valueOf(LocalDate.now());
         Game game1 = new Game(teams, "Brasileirão", date);
 
-
         game1.setPlayers(22);
         game1.print();
     }
