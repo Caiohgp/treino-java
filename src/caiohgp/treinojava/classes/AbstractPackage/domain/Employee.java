@@ -20,27 +20,8 @@ public abstract class Employee {
                 '}';
     }
 
-    public int getId() {
-        return idEmployee;
-    }
-
-    public void setId(int id) {
-        this.idEmployee = id;
-    }
-
     public String getName() {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public Adress getAdress() {
-        return adress;
-    }
-
-    public void setAdress(Adress adress) {
-        this.adress = adress;
-    }
 }
