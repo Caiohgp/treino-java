@@ -1,7 +1,7 @@
-package caiohgp.treinojava.classes.Heritage.test;
+package caiohgp.treinojava.classes.HeritagePackage.test;
 
-import caiohgp.treinojava.classes.Heritage.domain.Person;
-import caiohgp.treinojava.classes.Heritage.domain.Teacher;
+import caiohgp.treinojava.classes.HeritagePackage.domain.Person;
+import caiohgp.treinojava.classes.HeritagePackage.domain.Teacher;
 
 public class TestPerson {
     public static void main(String[] args) {

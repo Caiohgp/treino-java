@@ -1,4 +1,4 @@
-package caiohgp.treinojava.classes.Heritage.domain;
+package caiohgp.treinojava.classes.HeritagePackage.domain;
 
 public class Person {
     private String name;

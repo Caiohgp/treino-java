@@ -1,6 +1,6 @@
-package caiohgp.treinojava.classes.StaticMethods.test;
+package caiohgp.treinojava.classes.StaticPackage.test;
 
-import caiohgp.treinojava.classes.StaticMethods.domain.Game;
+import caiohgp.treinojava.classes.StaticPackage.domain.Game;
 
 import java.time.LocalDate;
 

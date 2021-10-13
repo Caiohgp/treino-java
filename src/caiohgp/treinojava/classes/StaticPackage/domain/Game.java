@@ -1,7 +1,4 @@
-package caiohgp.treinojava.classes.StaticMethods.domain;
-
-import java.time.LocalDateTime;
-import java.util.Date;
+package caiohgp.treinojava.classes.StaticPackage.domain;
 
 public class Game {
     private String[] teams;
