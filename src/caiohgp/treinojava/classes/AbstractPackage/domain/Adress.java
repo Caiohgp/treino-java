@@ -7,6 +7,7 @@ public class Adress {
     private Employee employee;
 
     public Adress(int idAdress,String adress, int number) {
+        this.idAdress = idAdress;
         this.adress = adress;
         this.number = number;
     }

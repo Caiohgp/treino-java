@@ -13,19 +13,23 @@ public abstract class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
+        return  "Employee{" +
                 "idEmployee=" + idEmployee +
                 ", name='" + name + '\'' +
-                ", adress=" + adress.getAdress() + ", nº: " + adress.getNumber()+
-                '}';
+                ", adress=" + adress.getAdress() + ", nº: " + adress.getNumber();
     }
 
-    public void imprime(){
-        System.out.println(this.name);
-    }
+    protected abstract void imprime();
 
     public String getName() {
         return name;
     }
 
+    public int getIdEmployee() {
+        return idEmployee;
+    }
+
+    public Adress getAdress() {
+        return adress;
+    }
 }
