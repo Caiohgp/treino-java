@@ -20,6 +20,10 @@ public abstract class Employee {
                 '}';
     }
 
+    public void imprime(){
+        System.out.println(this.name);
+    }
+
     public String getName() {
         return name;
     }
