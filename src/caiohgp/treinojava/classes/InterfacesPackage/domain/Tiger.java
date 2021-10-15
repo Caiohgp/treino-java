@@ -14,4 +14,9 @@ public class Tiger extends Animal{
     public void sleep() {
         System.out.println("The tiger sleeps 5h a day");
     }
+
+    public void print(){
+        System.out.println("Specie: " + super.getSpecie());
+        System.out.println("Nº of paws : " + super.getPaws());
+    }
 }

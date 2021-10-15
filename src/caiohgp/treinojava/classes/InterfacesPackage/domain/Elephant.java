@@ -13,4 +13,9 @@ public class Elephant extends Animal{
     public void sleep(){
         System.out.println("The elephant sleep 10h a day");
     }
+
+    public void print(){
+        System.out.println("Specie: " + super.getSpecie());
+        System.out.println("Nº of paws : " + super.getPaws());
+    }
 }

@@ -10,4 +10,18 @@ public abstract class Animal implements Food, Sleep {
         this.paws = paws;
         this.specie = specie;
     }
+
+    public int getIdAnimal() {
+        return idAnimal;
+    }
+
+    public int getPaws() {
+        return paws;
+    }
+
+    public String getSpecie() {
+        return specie;
+    }
+
+    public abstract void print();
 }
