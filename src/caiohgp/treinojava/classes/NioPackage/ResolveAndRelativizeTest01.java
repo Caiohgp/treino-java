@@ -3,7 +3,7 @@ package caiohgp.treinojava.classes.NioPackage;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class ResolveAndRelativize01 {
+public class ResolveAndRelativizeTest01 {
     public static void main(String[] args) {
 
         //Resolve
